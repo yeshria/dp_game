@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+#ui-bar{
+  display:none;
+}
+
+
+body{
+  margin: 1em;
+  /*background-color: white;*/
+  background-image: url("https://media.tenor.com/Rdz9M0h2BoQAAAAC/confetti.gif");
+  color: #02388d;
+font-size:150%;
+font-family:Inconsolata;
+  
+}
+a {
+ color:#02388d; 
+}
